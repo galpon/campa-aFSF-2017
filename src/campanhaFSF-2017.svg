@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="274.46387"
-     inkscape:cy="204.7594"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="389.7929"
+     inkscape:cy="294.58072"
      inkscape:document-units="mm"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -72,22 +72,23 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="FondoBlanco"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
-       transform="translate(0,-130.31248)"
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5951"
        width="317.5"
        height="166.6875"
-       x="-2.3805796e-23"
-       y="130.31248" />
+       x="-2.220446e-16"
+       y="-2.8421709e-14" />
   </g>
   <g
      inkscape:label="Diseno"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-130.31248)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0092c1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 93.285156,35.949219 c -27.75832,0 -50.205078,22.454566 -50.205078,50.21289 V 528.26953 c 0,27.75833 22.446758,50.20508 50.205078,50.20508 H 998.57227 v -6.49609 H 93.285156 c -24.269752,0 -43.708988,-19.43921 -43.708984,-43.70899 V 86.162109 c 0,-24.269782 19.439232,-43.708984 43.708984,-43.708984 H 1102.8242 c 24.2698,0 43.7012,19.439202 43.7012,43.708984 V 427.32812 a 90.357141,90.357141 0 0 1 6.5039,4.6504 V 86.162109 c 0,-27.758324 -22.4468,-50.21289 -50.2051,-50.21289 z"
@@ -171,7 +172,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon23"
-                 points="2478,0 0,0 0,77 2478,77 "
+                 points="0,77 2478,77 2478,0 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -187,7 +188,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon28"
-                 points="2832,0 0,0 0,77 2832,77 "
+                 points="0,77 2832,77 2832,0 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -203,7 +204,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon33"
-                 points="2478,0 0,0 0,77 2478,77 "
+                 points="0,77 2478,77 2478,0 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -440,7 +441,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon103"
-                 points="523,151 0,0 132,528 237,426 "
+                 points="132,528 237,426 523,151 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -473,7 +474,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon113"
-                 points="394,35 0,0 229,494 542,48 "
+                 points="229,494 542,48 394,35 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -489,7 +490,7 @@
                  style="stroke-width:2.20013428" />
               <polygon
                  id="polygon118"
-                 points="3184,0 0,0 0,77 3184,77 "
+                 points="0,77 3184,77 3184,0 0,0 "
                  style="fill:#2092c5;stroke-width:2.20013428" />
             </g>
             <g
@@ -571,8 +572,8 @@
        id="g5556"
        transform="translate(1.2411261,0.2527706)">
       <rect
-         y="106.31271"
-         x="90.182747"
+         y="105.5109"
+         x="73.077499"
          height="16.318272"
          width="115.00159"
          id="rect5473"
@@ -584,31 +585,31 @@
          ry="0"
          style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5438"
-         width="156.01201"
+         width="145.32123"
          height="16.318272"
-         x="121.74376"
+         x="109.71663"
          y="58.120739" />
       <flowRoot
          transform="scale(0.26458333)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5420"
          xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
            id="flowRegion5422"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
              y="103.71053"
              x="139.40105"
              height="760.89105"
              width="902.51019"
              id="rect5424" /></flowRegion><flowPara
            id="flowPara5489"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:112.99999952%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">Necesitamos un software que ayude a las administraciones  públicas a <flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:112.99999952%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">Necesitamos un software que ayude a las administraciones  públicas a <flowSpan
    id="flowSpan5441"
-   style="line-height:112.99999952%;fill:#ffffff;stroke:none">recuperar el control</flowSpan> total de su infraestructura digital <flowSpan
+   style="line-height:112.99999952%;text-align:start;text-anchor:start;fill:#ffffff;stroke:none">recuperar el control</flowSpan> total de su infraestructura digital <flowSpan
    id="flowSpan5463"
-   style="font-size:51.33333588px">crítica, que les permite convertirse</flowSpan> y ser <flowSpan
+   style="font-size:51.33333588px;text-align:start;text-anchor:start">crítica, que les permite convertirse</flowSpan> y ser <flowSpan
    id="flowSpan5475"
-   style="fill:#ffffff">independientes</flowSpan> de un  puñado de empresas.</flowPara></flowRoot>    </g>
+   style="text-align:start;text-anchor:start;fill:#ffffff">independientes</flowSpan> de un  puñado de empresas.</flowPara></flowRoot>    </g>
     <g
        id="g5690">
       <text
@@ -652,48 +653,43 @@
      id="layer7"
      inkscape:label="Texto1_GL"
      style="display:none">
-    <g
-       style="display:inline;opacity:1"
-       transform="translate(1.2411261,0.2527706)"
-       id="g5578">
-      <rect
-         y="58.120739"
-         x="121.74376"
-         height="16.318272"
-         width="156.01201"
-         id="rect5562"
-         style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         ry="0"
-         rx="0" />
-      <rect
-         rx="0"
-         ry="0"
-         style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5560"
-         width="115.00159"
-         height="16.318272"
-         x="166.74182"
-         y="106.59694" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5576"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="scale(0.26458333)"><flowRegion
-           id="flowRegion5566"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
-             id="rect5564"
-             width="902.51019"
-             height="760.89105"
-             x="139.40105"
-             y="103.71053"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:112.99999952%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
-           id="flowPara5574">Necesitamos un software que axude ás administracións públicas a <flowSpan
-   style="font-size:53.33333588px;fill:#ffffff"
-   id="flowSpan5608">recuperar o control</flowSpan> total da súa infraestrutura dixital crítica, que lles permite converterse e ser <flowSpan
+    <rect
+       rx="0"
+       ry="0"
+       style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5562"
+       width="109.23984"
+       height="16.318272"
+       x="36.389565"
+       y="106.21476" />
+    <rect
+       y="58.741199"
+       x="48.513458"
+       height="16.318272"
+       width="140.65945"
+       id="rect5560"
+       style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="0"
+       rx="0" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,1.2411261,0.2527706)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5576"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowRegion5566"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           y="103.71053"
+           x="139.40105"
+           height="585.12445"
+           width="927.76398"
+           id="rect5564" /></flowRegion><flowPara
+         id="flowPara5574"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:112.99999952%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">Necesitamos un software que axude ás administracións públicas a <flowSpan
    style="fill:#ffffff"
-   id="flowSpan5632">independentes</flowSpan> dun feixe de empresas.</flowPara></flowRoot>    </g>
-    <g
+   id="flowSpan210">recuperar o control</flowSpan> total da súa infraestrutura dixital crítica, que lles permite converterse e ser <flowSpan
+   style="fill:#ffffff"
+   id="flowSpan212">independentes</flowSpan> dun feixe de empresas.</flowPara></flowRoot>    <g
        id="g5754">
       <text
          xml:space="preserve"
@@ -737,20 +733,11 @@
      inkscape:label="Texto2_ES"
      style="display:none">
     <rect
-       y="91.068459"
-       x="229.0072"
-       height="16.318272"
-       width="50.367657"
-       id="rect5644"
-       style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       ry="0"
-       rx="0" />
-    <rect
        rx="0"
        ry="0"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5646"
-       width="69.45546"
+       width="64.91188"
        height="16.318272"
        x="124.87476"
        y="26.62351" />
@@ -759,31 +746,44 @@
        ry="0"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5818"
-       width="60.384026"
+       width="111.16524"
        height="16.318272"
-       x="36.050365"
-       y="107.32144" />
+       x="103.93682"
+       y="107.05417" />
+    <rect
+       y="74.714554"
+       x="152.04535"
+       height="16.318272"
+       width="111.16524"
+       id="rect218"
+       style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="0"
+       rx="0" />
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,1.2411261,0.2527706)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5660"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowRegion5650"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
            y="103.71053"
            x="139.40105"
            height="760.89105"
            width="902.51019"
            id="rect5648" /></flowRegion><flowPara
          id="flowPara5658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">¿Por qué el <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">¿Por qué el <flowSpan
    id="flowSpan5812"
-   style="fill:#ffffff">software</flowSpan> creado con dinero de los contribuyentes no se publica como Software Libre? Si se trata de dinero público, también debe ser de <flowSpan
+   style="text-align:center;text-anchor:middle;fill:#ffffff">software</flowSpan> creado con dinero de los contribuyentes no se publica como Software Libre? Si se trata de <flowSpan
+   style="fill:#ffffff"
+   id="flowSpan220">dinero público,</flowSpan> también debe ser de</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowPara214"> <flowSpan
    id="flowSpan5814"
-   style="fill:#ffffff">código </flowSpan><flowSpan
+   style="text-align:center;text-anchor:middle;fill:#ffffff">código </flowSpan><flowSpan
    id="flowSpan5816"
-   style="fill:#ffffff">público.</flowSpan></flowPara></flowRoot>    <g
+   style="text-align:center;text-anchor:middle;fill:#ffffff">público.</flowSpan></flowPara></flowRoot>    <g
        style="display:inline;opacity:1"
        id="g5704">
       <text
@@ -866,10 +866,10 @@
            id="tspan5764" /></text>
     </g>
     <rect
-       y="26.245535"
-       x="147.17535"
+       y="26.780073"
+       x="129.2683"
        height="16.318272"
-       width="69.45546"
+       width="64.644608"
        id="rect5867"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ry="0"
@@ -881,26 +881,37 @@
        id="rect5870"
        width="110.65486"
        height="16.318272"
-       x="62.352119"
-       y="107.31193" />
+       x="110.99519"
+       y="107.31192" />
+    <rect
+       y="91.275749"
+       x="42.574196"
+       height="16.318272"
+       width="110.65486"
+       id="rect226"
+       style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="0"
+       rx="0" />
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,1.2411261,0.2527706)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5832"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowRegion5822"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
            y="103.71053"
            x="139.40105"
-           height="760.89105"
-           width="902.51019"
+           height="703.31232"
+           width="864.12439"
            id="rect5820" /></flowRegion><flowPara
          id="flowPara5830"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">Por que o <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1">Por que o <flowSpan
+   style="text-align:center;text-anchor:middle;fill:#ffffff"
+   id="flowSpan5848">software</flowSpan> creado usando o diñeiro dos contribuíntes non se publica como Software Libre? Se é <flowSpan
    style="fill:#ffffff"
-   id="flowSpan5848">software</flowSpan> creado usando o diñeiro dos contribuíntes non se publica como Software Libre? Se é diñeiro público, tamén debería ser <flowSpan
-   style="fill:#ffffff"
+   id="flowSpan224">diñeiro público,</flowSpan> tamén debería ser <flowSpan
+   style="text-align:center;text-anchor:middle;fill:#ffffff"
    id="flowSpan5852">código público.</flowSpan></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -947,9 +958,9 @@
     </g>
     <rect
        y="42.926949"
-       x="136.36736"
+       x="124.34023"
        height="16.318272"
-       width="61.170105"
+       width="56.626522"
        id="rect5872"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ry="0"
@@ -959,30 +970,30 @@
        ry="0"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5910"
-       width="127.45295"
+       width="107.40774"
        height="16.318272"
        x="36.408554"
        y="75.266571" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5886"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,1.2411261,0.2527706)"><flowRegion
          id="flowRegion5876"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
            id="rect5874"
            width="902.51019"
            height="760.89105"
            x="139.40105"
            y="103.71053"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowPara5884">Imagine que todo el software con financiación <flowSpan
-   style="fill:#ffffff"
+   style="text-align:start;text-anchor:start;fill:#ffffff"
    id="flowSpan5904">pública</flowSpan> estuviera bajo una licencia libre: </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowPara5906"><flowSpan
-   style="fill:#ffffff"
+   style="text-align:start;text-anchor:start;fill:#ffffff"
    id="flowSpan5908">Todo el mundo</flowSpan> podría usarlo, estudiarlo, compartirlo y mejorarlo.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -1032,10 +1043,10 @@
        ry="0"
        style="display:inline;opacity:1;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5912"
-       width="61.170105"
+       width="55.824715"
        height="16.318272"
-       x="153.73988"
-       y="42.659679" />
+       x="141.44548"
+       y="42.926949" />
     <rect
        y="74.732018"
        x="36.007656"
@@ -1047,23 +1058,23 @@
        rx="0" />
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,1.2411261,0.2527706)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2092c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5926"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowRegion5916"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
            y="103.71053"
            x="139.40105"
            height="760.89105"
            width="902.51019"
            id="rect5914" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowPara5939">Imaxine que todo o software con financiamento <flowSpan
-   style="fill:#ffffff"
+   style="text-align:start;text-anchor:start;fill:#ffffff"
    id="flowSpan5945">público</flowSpan> estiver baixo unha licenza libre: </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:113.99999857%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2092c5;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="flowPara5943"><flowSpan
-   style="fill:#ffffff"
+   style="text-align:start;text-anchor:start;fill:#ffffff"
    id="flowSpan5947">Todos</flowSpan> poderían usalo, estudalo, compartilo e melloralo.</flowPara></flowRoot>  </g>
 </svg>
