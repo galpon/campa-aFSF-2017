@@ -28,6 +28,13 @@ fi
 
 
 
+# create out if not existent
+if [ ! -d "$DIR/$OUT/$DATE" ]; then
+    mkdir "$DIR/$OUT/$DATE"
+fi
+
+
+
 # inkscape actions /verbs
 #LayerHideAll
 #LayerToggleHide
@@ -45,7 +52,7 @@ fi
 # 3_GL => layer9
 
 # 1_ES => rect5473
-FI="$RENDERNAME-Texto1-ES-$DATE"
+FI="$RENDERNAME-Texto1-ES"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -57,11 +64,11 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
 # 1_GL => rect5562
-FI="$RENDERNAME-Texto1-GL-$DATE"
+FI="$RENDERNAME-Texto1-GL"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -73,11 +80,11 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
 # 2_ES => rect5818
-FI="$RENDERNAME-Texto2-ES-$DATE"
+FI="$RENDERNAME-Texto2-ES"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -89,11 +96,11 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
 # 2_GL => rect5870
-FI="$RENDERNAME-Texto2-GL-$DATE"
+FI="$RENDERNAME-Texto2-GL"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -105,12 +112,12 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
 
 # 3_ES => rect5910
-FI="$RENDERNAME-Texto3-ES-$DATE"
+FI="$RENDERNAME-Texto3-ES"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -122,11 +129,11 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
 # 3_GL => rect5949
-FI="$RENDERNAME-Texto3-GL-$DATE"
+FI="$RENDERNAME-Texto3-GL"
 cp "$DIR/$F" "$DIR/tmp/$FI.svg"
 inkscape  -f "$DIR/tmp/$FI.svg" \
  --select="rect5951" --verb="LayerHideAll" --verb="LayerToggleHide" \
@@ -138,6 +145,6 @@ inkscape  -f "$DIR/tmp/$FI.svg" \
  --verb="LayerToggleHide" \
  --verb=FileSave \
  --verb=FileQuit
-inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$FI.png" -C
+inkscape  -z -f "$DIR/tmp/$FI.svg" -e "$DIR/$OUT/$DATE/$FI.png" -C
 rm "$DIR/tmp/$FI.svg"
 
