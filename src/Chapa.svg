@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="702.41338"
-     inkscape:cy="-112.19017"
+     inkscape:zoom="1.4"
+     inkscape:cx="404.72866"
+     inkscape:cy="165.38003"
      inkscape:document-units="mm"
      inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
-     inkscape:window-width="1276"
-     inkscape:window-height="1373"
-     inkscape:window-x="3196"
+     inkscape:window-width="1272"
+     inkscape:window-height="998"
+     inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
@@ -55,7 +55,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="FondoBlanco"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-34.395833)"
      sodipodi:insensitive="true">
     <rect
@@ -71,7 +71,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-164.70831)"
-     style="display:none">
+     style="display:inline">
     <g
        id="Page-1"
        transform="matrix(0.01773757,0,0,0.01773757,33.449539,180.46511)"
@@ -149,7 +149,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon23"
-                 points="2478,0 0,0 0,77 2478,77 "
+                 points="0,77 2478,77 2478,0 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -165,7 +165,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon28"
-                 points="2832,0 0,0 0,77 2832,77 "
+                 points="0,77 2832,77 2832,0 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -181,7 +181,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon33"
-                 points="2478,0 0,0 0,77 2478,77 "
+                 points="0,77 2478,77 2478,0 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -418,7 +418,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon103"
-                 points="523,151 0,0 132,528 237,426 "
+                 points="132,528 237,426 523,151 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -451,7 +451,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon113"
-                 points="394,35 0,0 229,494 542,48 "
+                 points="229,494 542,48 394,35 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -467,7 +467,7 @@
                  style="stroke-width:1.14390659" />
               <polygon
                  id="polygon118"
-                 points="3184,0 0,0 0,77 3184,77 "
+                 points="0,77 3184,77 3184,0 0,0 "
                  style="fill:#2092c5;stroke-width:1.14390659" />
             </g>
             <g
@@ -524,7 +524,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Texto1_ES"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0,-34.395833)">
     <text
        xml:space="preserve"
@@ -554,7 +554,7 @@
          y="142.41547"
          x="32.37228"
          id="tspan5537"
-         sodipodi:role="line">Código publico</tspan><tspan
+         sodipodi:role="line">Código público</tspan><tspan
          id="tspan5539"
          style="fill:#ffffff;stroke-width:0.26458332px"
          y="152.85464"
@@ -572,7 +572,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Texto1_GL"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-34.395833)">
     <text
        transform="scale(0.98337603,1.016905)"
@@ -585,7 +585,7 @@
          y="124.4023"
          x="32.262218"
          id="tspan5590"
-         sodipodi:role="line">Diñeiro Público</tspan><tspan
+         sodipodi:role="line">Diñeiro público</tspan><tspan
          id="tspan5592"
          style="fill:#ffffff;stroke-width:0.26458329px"
          y="134.55753"
